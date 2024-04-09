@@ -1,0 +1,79 @@
+2023-08-01 08:46:09,214 - test_add_contact.py:INFO :test_contact :clicking on add new contact button
+2023-08-01 08:46:09,789 - test_add_contact.py:INFO :test_contact :Entering Contact's first name
+2023-08-01 08:46:11,037 - test_add_contact.py:INFO :test_contact :Entering Contact's last name
+2023-08-01 08:47:20,905 - test_add_contact.py:INFO :test_contact :clicking on add new contact button
+2023-08-01 08:47:21,440 - test_add_contact.py:INFO :test_contact :Entering Contact's first name
+2023-08-01 08:47:23,442 - test_add_contact.py:INFO :test_contact :Entering Contact's last name
+2023-08-01 08:48:36,228 - test_add_contact.py:INFO :test_contact :clicking on add new contact button
+2023-08-01 08:48:36,823 - test_add_contact.py:INFO :test_contact :Entering Contact's first name
+2023-08-01 08:48:39,045 - test_add_contact.py:INFO :test_contact :Entering Contact's last name
+2023-08-01 08:50:50,313 - test_add_contact.py:INFO :test_contact :clicking on add new contact button
+2023-08-01 08:50:50,873 - test_add_contact.py:INFO :test_contact :Entering Contact's first name
+2023-08-01 08:50:52,911 - test_add_contact.py:INFO :test_contact :Entering Contact's last name
+2023-08-01 09:09:05,912 - test_add_contact.py:INFO :test_contact :clicking on add new contact button
+2023-08-01 09:09:06,454 - test_add_contact.py:INFO :test_contact :Entering Contact's first name
+2023-08-01 09:10:48,781 - test_add_contact.py:INFO :test_contact :clicking on add new contact button
+2023-08-01 09:10:49,305 - test_add_contact.py:INFO :test_contact :Entering Contact's first name
+2023-08-01 09:10:51,311 - test_add_contact.py:INFO :test_contact :Entering Contact's last name
+2023-08-01 09:10:57,754 - test_add_contact.py:INFO :test_contact :Entering phone number
+2023-08-01 09:13:06,059 - test_add_contact.py:INFO :test_contact :clicking on add new contact button
+2023-08-01 09:13:06,623 - test_add_contact.py:INFO :test_contact :Entering Contact's first name
+2023-08-01 09:13:08,642 - test_add_contact.py:INFO :test_contact :Entering Contact's last name
+2023-08-01 09:15:56,364 - test_add_contact.py:INFO :test_contact :clicking on add new contact button
+2023-08-01 09:15:56,904 - test_add_contact.py:INFO :test_contact :Entering Contact's first name
+2023-08-01 09:15:58,873 - test_add_contact.py:INFO :test_contact :Entering Contact's last name
+2023-08-01 09:22:24,936 - test_add_contact.py:INFO :test_contact :clicking on add new contact button
+2023-08-01 09:22:25,487 - test_add_contact.py:INFO :test_contact :Entering Contact's first name
+2023-08-01 09:22:27,477 - test_add_contact.py:INFO :test_contact :Entering Contact's last name
+2023-08-01 09:23:56,429 - test_add_contact.py:INFO :test_contact :clicking on add new contact button
+2023-08-01 09:23:56,973 - test_add_contact.py:INFO :test_contact :Entering Contact's first name
+2023-08-01 09:23:58,938 - test_add_contact.py:INFO :test_contact :Entering Contact's last name
+2023-08-01 09:26:18,904 - test_add_contact.py:INFO :test_contact :clicking on add new contact button
+2023-08-01 09:26:19,474 - test_add_contact.py:INFO :test_contact :Entering Contact's first name
+2023-08-01 09:26:21,370 - test_add_contact.py:INFO :test_contact :Entering Contact's last name
+2023-08-01 09:28:59,580 - test_add_contact.py:INFO :test_contact :clicking on add new contact button
+2023-08-01 09:29:00,104 - test_add_contact.py:INFO :test_contact :Entering Contact's first name
+2023-08-01 09:29:02,008 - test_add_contact.py:INFO :test_contact :Entering Contact's last name
+2023-08-01 09:29:53,442 - test_add_contact.py:INFO :test_contact :clicking on add new contact button
+2023-08-01 09:29:54,008 - test_add_contact.py:INFO :test_contact :Entering Contact's first name
+2023-08-01 09:29:55,894 - test_add_contact.py:INFO :test_contact :Entering Contact's last name
+2023-08-01 09:31:16,521 - test_add_contact.py:INFO :test_contact :clicking on add new contact button
+2023-08-01 09:31:17,077 - test_add_contact.py:INFO :test_contact :Entering Contact's first name
+2023-08-01 09:31:19,002 - test_add_contact.py:INFO :test_contact :Entering Contact's last name
+2023-08-01 09:34:41,141 - test_add_contact.py:INFO :test_contact :clicking on add new contact button
+2023-08-01 09:34:41,660 - test_add_contact.py:INFO :test_contact :Entering Contact's first name
+2023-08-01 09:34:43,604 - test_add_contact.py:INFO :test_contact :Entering Contact's last name
+2023-08-01 09:35:17,462 - test_add_contact.py:INFO :test_contact :clicking on add new contact button
+2023-08-01 09:35:17,995 - test_add_contact.py:INFO :test_contact :Entering Contact's first name
+2023-08-01 09:35:20,231 - test_add_contact.py:INFO :test_contact :Entering Contact's last name
+2023-08-01 09:39:58,758 - test_add_contact.py:INFO :test_contact :clicking on add new contact button
+2023-08-01 09:39:59,311 - test_add_contact.py:INFO :test_contact :Entering Contact's first name
+2023-08-01 09:40:01,654 - test_add_contact.py:INFO :test_contact :Entering Contact's last name
+2023-08-01 09:40:07,650 - test_add_contact.py:INFO :test_contact :Entering phone number
+2023-08-01 09:40:08,817 - test_add_contact.py:INFO :test_contact :Saving Contact
+2023-08-01 09:42:35,619 - test_add_contact.py:INFO :test_contact :clicking on add new contact button
+2023-08-01 09:43:10,233 - test_add_contact.py:INFO :test_contact :clicking on add new contact button
+2023-08-01 09:43:10,797 - test_add_contact.py:INFO :test_contact :Entering Contact's first name
+2023-08-01 09:43:12,589 - test_add_contact.py:INFO :test_contact :Entering Contact's last name
+2023-08-01 09:43:19,232 - test_add_contact.py:INFO :test_contact :Entering phone number
+2023-08-01 09:43:19,363 - test_add_contact.py:INFO :test_contact :Saving Contact
+2023-08-01 09:43:50,375 - test_add_contact.py:INFO :test_contact :clicking on add new contact button
+2023-08-01 09:43:51,513 - test_add_contact.py:INFO :test_contact :Entering Contact's first name
+2023-08-01 09:43:53,854 - test_add_contact.py:INFO :test_contact :Entering Contact's last name
+2023-08-01 09:43:55,907 - test_add_contact.py:INFO :test_contact :Entering phone number
+2023-08-01 09:43:56,031 - test_add_contact.py:INFO :test_contact :Saving Contact
+2023-08-01 09:51:36,170 - test_add_contact.py:INFO :test_contact :clicking on add new contact button
+2023-08-01 09:51:36,711 - test_add_contact.py:INFO :test_contact :Entering Contact's first name
+2023-08-01 09:51:38,537 - test_add_contact.py:INFO :test_contact :Entering Contact's last name
+2023-08-01 09:51:40,529 - test_add_contact.py:INFO :test_contact :Entering phone number
+2023-08-01 09:51:41,193 - test_add_contact.py:INFO :test_contact :Saving Contact
+2023-08-01 09:54:46,370 - test_add_contact.py:INFO :test_contact :clicking on add new contact button
+2023-08-01 09:54:46,922 - test_add_contact.py:INFO :test_contact :Entering Contact's first name
+2023-08-01 09:54:48,806 - test_add_contact.py:INFO :test_contact :Entering Contact's last name
+2023-08-01 09:54:50,976 - test_add_contact.py:INFO :test_contact :Entering phone number
+2023-08-01 09:54:51,152 - test_add_contact.py:INFO :test_contact :Saving Contact
+2023-08-01 10:01:24,570 - test_add_contact.py:INFO :test_contact :clicking on add new contact button
+2023-08-01 10:01:24,658 - test_add_contact.py:INFO :test_contact :Entering Contact's first name
+2023-08-01 10:01:26,454 - test_add_contact.py:INFO :test_contact :Entering Contact's last name
+2023-08-01 10:01:28,055 - test_add_contact.py:INFO :test_contact :Entering phone number
+2023-08-01 10:01:28,720 - test_add_contact.py:INFO :test_contact :Saving Contact

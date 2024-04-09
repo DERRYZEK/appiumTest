@@ -1,0 +1,5 @@
+2024-04-09 14:21:24,215 - test_add_contact.py:INFO :test_contact :clicking on add new contact button
+2024-04-09 14:21:24,877 - test_add_contact.py:INFO :test_contact :Entering Contact's first name
+2024-04-09 14:21:29,161 - test_add_contact.py:INFO :test_contact :Entering Contact's last name
+2024-04-09 14:21:38,033 - test_add_contact.py:INFO :test_contact :Entering phone number
+2024-04-09 14:21:38,670 - test_add_contact.py:INFO :test_contact :Saving Contact
